@@ -1,0 +1,20 @@
+# Ignore build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Platforms/
+
+# Ignore Visual Studio files
+*.code-workspace
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
